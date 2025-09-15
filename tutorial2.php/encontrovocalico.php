@@ -48,6 +48,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
               background-color: #46cf62ff;
             &:hover {
                 background-color: #7d857eff;
